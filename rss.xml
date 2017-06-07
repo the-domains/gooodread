@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rightman]]></title>
+        <description><![CDATA[Rightman]]></description>
+        <link>https://thegrid.ai/rightman/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 30 May 2017 05:00:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rightman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Logofolio]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.behance.net%2Fgallery%2F51164723%2FLogofolio%3Fiframe%3D1&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F51164723%2FLogofolio&image=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fprojects%2F404%2F35f64351164723.Y3JvcCwxMDI2LDgwMywwLDk4.png&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&scroll=auto&schema=behance" width="700" height="900" scrolling="auto" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.behance.net/gallery/51164723/Logofolio</link>
+            <guid isPermaLink="false">dd5cb38a-3d5e-4212-ab46-8f0cc31f3836</guid>
+            <pubDate>Tue, 30 May 2017 05:00:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
