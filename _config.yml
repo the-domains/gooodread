@@ -1,0 +1,58 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Gooodread
+layout_spectrum: 0.2218772058840841
+typography_spectrum: 0.4603849609848112
+color:
+  brandStrength: 0.5848815101198852
+  lightness: 0.32166683836840093
+  saturation: 0.605498768389225
+  rhythmicContrast: 0.9651793285738677
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4d68aec-0e9b-49cd-91df-ca3f56210cc0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4d68aec-0e9b-49cd-91df-ca3f56210cc0.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Rightman
+description: ''
+purpose:
+  - type: contact
+    url: 'mailto:me@sittipong.com'
+    label: Contact me
+github: true
+url: 'https://thegrid.ai/rightman/'
+author:
+  name: Sittipong HAUS
+  email: me@sittipong.com
+  url: 'https://www.sittipong.com'
